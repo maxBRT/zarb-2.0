@@ -1,0 +1,1 @@
+<input type="checkbox" class="toggle theme-controller" @click="toggleTheme()" />
